@@ -6,7 +6,7 @@ I build AI products from idea to real delivery: agentic apps, mobile AI workflow
 
 ## Start Here
 
-- [PIN AI](https://github.com/PIN-AI) - Chief AI Expert working on personal AI, agentic product systems, and mobile-first AI experiences.
+- [PIN AI](https://github.com/PIN-AI) - Chief AI Expert working on Personal AI, agentic product systems, and mobile-first AI experiences.
 - [MTEB / leaderboard](https://github.com/embeddings-benchmark/mteb) - Contributor to embedding benchmark and leaderboard workflows.
 - [Personal site](https://www.smilehu.com) - Product notes, background, and contact.
 - [X / Twitter](https://x.com/Yeshujing) - AI product and engineering updates.
@@ -15,11 +15,10 @@ I build AI products from idea to real delivery: agentic apps, mobile AI workflow
 
 ### PIN AI
 
-- [PIN-AI/ambientIntelligence](https://github.com/PIN-AI/ambientIntelligence) - Ambient intelligence SDK.
 - [PIN-AI/PINLOB](https://github.com/PIN-AI/PINLOB) - Efficient intent, mood, and edge-brain on-device model.
 - [PIN-AI/openclaw-pinai-connector](https://github.com/PIN-AI/openclaw-pinai-connector) - Connector work around agent workflows.
 
-Most of my current PIN AI product work is private, but the public organization shows the direction: personal AI, mobile AI, agent workflows, and on-device intelligence.
+Most of my current PIN AI product work is private, but the public organization shows the direction: Personal AI, mobile AI, agent workflows, and on-device intelligence.
 
 ### MTEB Ecosystem
 
@@ -30,7 +29,7 @@ Most of my current PIN AI product work is private, but the public organization s
 
 ## What I Work On
 
-- AI assistant products and agent workflows
+- Personal AI products and agent workflows
 - Mobile-first AI experiences on iOS and local runtimes
 - LLM infrastructure, orchestration, and evaluation loops
 - Full-stack product delivery with React, TypeScript, Python, and Swift
