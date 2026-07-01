@@ -38,7 +38,7 @@ Public PRs under this GitHub account:
 
 ## Stack
 
-TypeScript - React - Python - FastAPI - Swift - iOS - PostgreSQL - LLM Infra - AI Agents - Evaluation
+Agent Harness - AI Agents - LLM Infra - Evaluation - TypeScript - React - Python - FastAPI - Swift - iOS - PostgreSQL - Full-stack Product Engineering
 
 ## Contact
 
