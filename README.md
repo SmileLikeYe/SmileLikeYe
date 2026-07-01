@@ -8,7 +8,7 @@ I build AI products from idea to real delivery: agentic apps, mobile AI workflow
 
 - [PIN AI](https://github.com/PIN-AI) - Chief AI Expert working on Personal AI, agentic product systems, and mobile-first AI experiences.
 - [MTEB / leaderboard](https://github.com/embeddings-benchmark/mteb) - Contributor to embedding benchmark and leaderboard workflows.
-- [Personal site](https://www.smilehu.com) - Product notes, background, and contact.
+- [Personal site](https://smileflow.cn) - Product notes, background, and contact.
 - [X / Twitter](https://x.com/Yeshujing) - AI product and engineering updates.
 
 ## Selected Public Work
@@ -42,6 +42,6 @@ Agent Harness - AI Agents - LLM Infra - Evaluation - TypeScript - React - Python
 
 ## Contact
 
-- Website: [smilehu.com](https://www.smilehu.com)
+- Website: [smileflow.cn](https://smileflow.cn)
 - X / Twitter: [@Yeshujing](https://x.com/Yeshujing)
 - Email: [smiletoye@gmail.com](mailto:smiletoye@gmail.com)
