@@ -17,7 +17,7 @@ My long-term focus is Personal AI, Ambient AI, Agent Harness, and practical AI p
 - Chief AI Engineer & Chief Researcher at [PIN AI](https://www.pinai.com/), building Personal AI and agentic product systems.
 - Built Personal AI / Ambient AI hardware prototypes and hardware-software product workflows during my work at PIN AI.
 
-<img src="./assets/pin-ai-ambient-hardware.png" alt="PIN AI Ambient AI hardware prototype" width="760" />
+<img src="./assets/pin-ai-ambient-hardware.png" alt="PIN AI Ambient AI hardware prototype" width="420" />
 
 - Company milestone: [$10M funding announcement](https://x.com/pinai_io/status/1833176031714541651).
 - Product milestone: [3M+ users announcement](https://x.com/pinai_io/status/1950915602983346431).
