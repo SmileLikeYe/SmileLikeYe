@@ -24,13 +24,6 @@ My long-term focus is Personal AI, Ambient AI, Agent Harness, and practical AI p
 - [MTEB](https://github.com/embeddings-benchmark/mteb) - 2+ year contributor to the embedding benchmark ecosystem and leaderboard workflows.
 - [PINAI Agent SDK](https://github.com/PIN-AI/pinai_agent_sdk) - SDK work around the PINAI agent ecosystem.
 
-Public PRs under this GitHub account:
-
-- [leaderboard-frontend #28](https://github.com/embeddings-benchmark/leaderboard-frontend/pull/28) - Merged fix for canonical benchmark alias routes.
-- [mteb #4853](https://github.com/embeddings-benchmark/mteb/pull/4853) - Leaderboard benchmark query guard.
-- [mteb #4854](https://github.com/embeddings-benchmark/mteb/pull/4854) - Empty task-info behavior fix.
-- [mteb #4855](https://github.com/embeddings-benchmark/mteb/pull/4855) - Lazy benchmark plot loading for leaderboard performance.
-
 ## Experience
 
 - [Zhipu AI / Z.ai](https://bigmodel.cn/) - FDE work on model fine-tuning and customer co-creation.
