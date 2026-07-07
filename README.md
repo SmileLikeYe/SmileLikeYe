@@ -1,26 +1,28 @@
 # Hi, I'm Smile Hu
 
-Chief AI Expert at [PIN AI](https://github.com/PIN-AI), and a contributor to the [MTEB](https://github.com/embeddings-benchmark/mteb) ecosystem.
+Chief AI Engineer & Chief Researcher at [PIN AI](https://www.pinai.com/) [@PINAI_IO](https://x.com/PINAI_IO) | Ex-Zhipu AI [@Zai_org](https://x.com/Zai_org) | Ex-SAP [@SAP](https://x.com/SAP)
 
-I build AI products from idea to real delivery: agentic apps, mobile AI workflows, backend orchestration, frontend product surfaces, and evaluation tooling.
+[![PIN AI](https://img.shields.io/badge/PIN%20AI-Chief%20AI%20Engineer-111827)](https://www.pinai.com/)
+[![Agent Harness](https://img.shields.io/badge/Agent%20Harness-builder-2563eb)](https://github.com/SmileLikeYe/agent-chief)
+[![agent-chief](https://img.shields.io/github/stars/SmileLikeYe/agent-chief?style=social)](https://github.com/SmileLikeYe/agent-chief)
+[![MTEB](https://img.shields.io/badge/MTEB-contributor-0f766e)](https://github.com/embeddings-benchmark/mteb)
 
-## Start Here
+I am a senior AI engineer, full-stack engineer, and AI product manager focused on taking AI products from 0 to 1: product framing, research, agent harness design, backend/frontend/mobile implementation, evaluation, and launch.
 
-- [PIN AI](https://github.com/PIN-AI) - Chief AI Expert working on Personal AI, agentic product systems, and mobile-first AI experiences.
-- [MTEB / leaderboard](https://github.com/embeddings-benchmark/mteb) - Contributor to embedding benchmark and leaderboard workflows.
-- [Personal site](https://smileflow.cn) - Product notes, background, and contact.
-- [X / Twitter](https://x.com/Yeshujing) - AI product and engineering updates.
+My long-term focus is Personal AI, Ambient AI, Agent Harness, and practical AI products. I also turn product and engineering work into skills, articles, and open-source artifacts.
 
-## Selected Public Work
+## PIN AI
 
-### PIN AI
+- Chief AI Engineer & Chief Researcher at [PIN AI](https://www.pinai.com/), building Personal AI and agentic product systems.
+- Company milestone: [$10M funding announcement](https://x.com/pinai_io/status/1833176031714541651).
+- Product milestone: [3M+ users announcement](https://x.com/pinai_io/status/1950915602983346431).
+- Open source: [PIN-AI/pinai_agent_sdk](https://github.com/PIN-AI/pinai_agent_sdk).
 
-- [PIN-AI/PINLOB](https://github.com/PIN-AI/PINLOB) - Efficient intent, mood, and edge-brain on-device model.
-- [PIN-AI/openclaw-pinai-connector](https://github.com/PIN-AI/openclaw-pinai-connector) - Connector work around agent workflows.
+## Open Source & Research
 
-Most of my current PIN AI product work is private, but the public organization shows the direction: Personal AI, mobile AI, agent workflows, and on-device intelligence.
-
-### MTEB Ecosystem
+- [agent-chief](https://github.com/SmileLikeYe/agent-chief) - My open-source Agent Harness project for AI-native builders.
+- [MTEB](https://github.com/embeddings-benchmark/mteb) - 2+ year contributor to the embedding benchmark ecosystem and leaderboard workflows.
+- [PINAI Agent SDK](https://github.com/PIN-AI/pinai_agent_sdk) - SDK work around the PINAI agent ecosystem.
 
 Public PRs under this GitHub account:
 
@@ -29,16 +31,15 @@ Public PRs under this GitHub account:
 - [mteb #4854](https://github.com/embeddings-benchmark/mteb/pull/4854) - Empty task-info behavior fix.
 - [mteb #4855](https://github.com/embeddings-benchmark/mteb/pull/4855) - Lazy benchmark plot loading for leaderboard performance.
 
-## What I Work On
+## Experience
 
-- Personal AI products and agent workflows
-- Mobile-first AI experiences on iOS and local runtimes
-- LLM infrastructure, orchestration, and evaluation loops
-- Full-stack product delivery with React, TypeScript, Python, and Swift
+- [Zhipu AI / Z.ai](https://bigmodel.cn/) - FDE work on model fine-tuning and customer co-creation.
+- [SAP](https://www.sap.com/) - Full-stack and mobile engineering across web, backend, iOS, and Android.
+- SAP mobile apps: [SAP Business One Sales](https://play.google.com/store/apps/details?id=b1.sales.mobile.android&hl=en_GB) and [SAP Business One Service](https://play.google.com/store/apps/details?id=b1.service.mobile.android).
 
 ## Stack
 
-Agent Harness - AI Agents - LLM Infra - Evaluation - TypeScript - React - Python - FastAPI - Swift - iOS - PostgreSQL - Full-stack Product Engineering
+Agent Harness - Personal AI - Ambient AI - AI Agents - LLM Orchestration - Evaluation - TypeScript - React - Python - FastAPI - Swift - iOS - Android - PostgreSQL - Full-stack Product Engineering
 
 ## Contact
 
